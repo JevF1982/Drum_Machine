@@ -6,7 +6,7 @@ import { useContext } from "react";
 
 const PrettoSlider = withStyles({
   root: {
-    color: "blue",
+    color: "#BE6FD",
     height: 8,
     display: "flex",
     resize: "both",

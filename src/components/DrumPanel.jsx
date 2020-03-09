@@ -9,7 +9,7 @@ import Grid from "@material-ui/core/Grid";
 const panelStyling = {
   display: "flex",
   backgroundColor: "grey",
-  color: "white",
+  color: "black",
   width: "70%",
   minHeight: "400px",
   borderRadius: "10px",
